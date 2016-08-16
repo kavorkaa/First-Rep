@@ -14,6 +14,7 @@ Starting Coding
 <p>Kanye West</p>
 <a href="http://www.rfgstudio.appstate.edu"> Robert F Giley Recording Studio </a>
 <b> this text is bold </b>
+<strong> this is strong text </strong>
 
 
 </body>
