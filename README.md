@@ -6,7 +6,7 @@ Starting Coding
 <body>
 <body style="background-color:powderblue;">
 
-<h2> Testing Testing Frog </h2>
+<h1 style="color:blue;">This is a heading</h1>
 <p> Apples and Oranges </p>
 <a href="http://www.mentalfloss.com"> Hi this is my first link on Git Hub </a>
 <p> sql, javascript, php and other stuf, dev bootcamp in chiago </p>
