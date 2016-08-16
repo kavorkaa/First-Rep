@@ -3,7 +3,7 @@ Starting Coding
 
 
 <html>
-<body>
+<body style="background-color:powderblue;">
 
 <h2> Testing Testing Frog </h2>
 <p> Apples and Oranges </p>
